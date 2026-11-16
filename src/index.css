@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&family=Playwrite+US+Modern:wght@100..400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Mr+Dafoe&display=swap');
+
+body {
+   min-height: 100vh;
+   background: linear-gradient(
+    110deg,
+    #FFFFFF 20%,
+    #FDF3F6 55%,
+    #F8CCCC 100%
+   );
+}
